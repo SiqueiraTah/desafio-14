@@ -1,0 +1,14 @@
+main{
+    background-color: rgb(3, 3, 32);
+}
+
+div.container-fluid{
+    padding: 0;
+}
+
+div.carousel-inner{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
